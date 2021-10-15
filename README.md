@@ -26,7 +26,7 @@ correlated with real-life stats.
 
 ## Changelog
 
-### 2.0.0
+### 2.0.0 WIP
 
 * WIP: Add "AlperB-subwrx"
 * ~~WIP: Add "freedomgundam-ae86"~~
