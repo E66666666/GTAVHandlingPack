@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Vehicle>
+	<Description>R32 GT-R VSpec II</Description>
+	<ModelName>r32</ModelName>
+	<ModelHash>2352273464</ModelHash>
+	<PlateText>autoload_model</PlateText>
+	<TopGear>5</TopGear>
+	<DriveMaxVel>60.346664</DriveMaxVel>
+	<Gear0>-3.3733332</Gear0>
+	<Gear1>3.2133334</Gear1>
+	<Gear2>1.934476</Gear2>
+	<Gear3>1.2979897</Gear3>
+	<Gear4>1.004079</Gear4>
+	<Gear5>0.7500001</Gear5>
+</Vehicle>

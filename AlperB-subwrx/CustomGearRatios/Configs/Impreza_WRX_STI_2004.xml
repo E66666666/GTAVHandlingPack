@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Vehicle>
+	<Description>2004 Impreza WRX STI</Description>
+	<ModelName>subwrx</ModelName>
+	<PlateText>autoload_model</PlateText>
+	<TopGear>6</TopGear>
+	<DriveMaxVel>57.12</DriveMaxVel>
+	<Gear0>-3.545</Gear0>
+	<Gear1>3.636</Gear1>
+	<Gear2>2.375</Gear2>
+	<Gear3>1.761</Gear3>
+	<Gear4>1.346</Gear4>
+	<Gear5>0.971</Gear5>
+	<Gear6>0.756</Gear6>
+</Vehicle>
