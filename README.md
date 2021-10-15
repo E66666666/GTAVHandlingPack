@@ -26,12 +26,18 @@ correlated with real-life stats.
 
 ## Changelog
 
-### 2.0
+### 2.0.0
 
 * WIP: Add "AlperB-subwrx"
 * ~~WIP: Add "freedomgundam-ae86"~~
 * ~~WIP: Add "y97y-ek9"~~
 * ~~WIP: Update "y97y-BNR32"~~
+
+Notice: From 2.0.0 onwards, I'll use semver:
+
+* Major: No update expected
+* Minor: Increments for additions
+* Patch: Increments for only updates to existing handlings
 
 ### 1.0
 
