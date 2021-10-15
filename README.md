@@ -23,3 +23,16 @@ Included vehicles:
 
 Each folder has a readme with further elaboration on how the numbers were
 correlated with real-life stats.
+
+## Changelog
+
+### 2.0
+
+* WIP: Add "AlperB-subwrx"
+* ~~WIP: Add "freedomgundam-ae86"~~
+* ~~WIP: Add "y97y-ek9"~~
+* ~~WIP: Update "y97y-BNR32"~~
+
+### 1.0
+
+* Initial release with R32
