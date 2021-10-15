@@ -116,7 +116,7 @@ Required:
 * [Handling Replacement Library](https://www.gta5-mods.com/tools/handling-replacement-library)
 * [TurboFix](https://www.gta5-mods.com/scripts/turbofix-2)
 * [Custom Gear Ratios](https://www.gta5-mods.com/scripts/custom-gear-ratios)
-* [Custom Torque Map](https://www.gta5-mods.com/scripts/custom-gear-map)
+* [Custom Torque Map](https://www.gta5-mods.com/scripts/custom-torque-map)
 
 Optional:
 
